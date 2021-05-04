@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="hu">
+ <head>
+  <meta charset="UTF-8">
+  <title>Autóelektronika</title>
+ </head>
+ <body style="background:coral; color:dark grey; font-size:10pt; font-family:tahoma">
+
+<br><br><br>
+<img src="kepek/autoelektro.jpg" height="200" border="0" alt="" style="float:right">
+
+<font style="font-size:14pt"><b>Autóelektronika</b></font>
+<br><br>
+Ezen a weblapon az Autóelektronika című tárgy tematikáját ismertetem.
+<br><br>
+<b>Tematika:</b>
+<ul>
+<li>Személygépkocsi világítási rendszere: fénytani alapfogalmak, követelmények, mérőernyő.
+<li>Fényforrások: izzószálas, halogén, ívkisülés, világító diódák.
+<li>Fényszórók felépítése. Paraboloid, polielipszoid, szabad formás fényvetők.
+<li>Tompított és távolsági fényszórók.
+<li>Jelző lámpák: helyzet, irányváltás, fék. 
+<li>Kiegészítő világítás: ködlámpák.
+<li>Tolató lámpák.
+<li>Blokkolás gátló fékrendszer.
+<li>Kipörgés szabályozás.
+<li>Járműdinamika szabályozás.
+<li>Fedélzeti műszerek. 
+<li>Ablaktörlő és páramentesítő rendszerek.
+<li>Légzsák és pirotechnikai övfeszítők.
+
+</ul>
+</body>
+</html>
